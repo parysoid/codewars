@@ -113,6 +113,7 @@
       <workItem from="1611919899739" duration="5512000" />
       <workItem from="1612194373770" duration="89000" />
       <workItem from="1612378222016" duration="799000" />
+      <workItem from="1612379104166" duration="318000" />
     </task>
     <task id="LOCAL-00001" summary="First commit of katas">
       <created>1612378605836</created>
@@ -121,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612378605836</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First">
+      <created>1612379416078</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612379416078</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,9 +145,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit of katas" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit of katas" />
+    <MESSAGE value="First" />
+    <option name="LAST_COMMIT_MESSAGE" value="First" />
   </component>
 </project>
