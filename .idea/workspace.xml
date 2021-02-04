@@ -2,51 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1528e426-5b17-4777-a9f1-dd4d5c8ec562" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codewars.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbbreviateTwoWordName.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlphabetSymmetry.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bartender.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CenturyFromYear.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CountOddNumbers.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DescendingOrder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DifferenceOfCuboids.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DirectionsReduction.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrinkAbout.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DuplicateEncoder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factorial.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fibonacci.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FillingAnArray.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FindTheParityOutlier.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FindTheSmallestInt.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FourSeven.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GetTheMiddleCharacter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GrasshopperSummation.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GravityFlip.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HighestAndLowest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InvertValues.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lario.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaximumLengthDifference.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovingZerosToTheEnd.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mumbling - zase text.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyTestCasesTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceInt.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OppositeNumber.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RemoveFirstAndLastCharacter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RemoveStringSpaces.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReversedSequence.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReversedStrings.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SetAlarm.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Square(n)Sum.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringRepeat.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SubtractTheSum.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SumOfIntervals.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TwiceAsOld.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vowels - hledani písmena.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WhichTrian.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumOfArrayAverages.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +70,8 @@
       <workItem from="1611919899739" duration="5512000" />
       <workItem from="1612194373770" duration="89000" />
       <workItem from="1612378222016" duration="799000" />
-      <workItem from="1612379104166" duration="318000" />
+      <workItem from="1612379104166" duration="831000" />
+      <workItem from="1612437648301" duration="305000" />
     </task>
     <task id="LOCAL-00001" summary="First commit of katas">
       <created>1612378605836</created>
@@ -129,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612379416078</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Grasshopper">
+      <created>1612379713505</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612379713505</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,6 +115,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit of katas" />
     <MESSAGE value="First" />
-    <option name="LAST_COMMIT_MESSAGE" value="First" />
+    <MESSAGE value="Grasshopper" />
+    <option name="LAST_COMMIT_MESSAGE" value="Grasshopper" />
   </component>
 </project>
