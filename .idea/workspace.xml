@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1528e426-5b17-4777-a9f1-dd4d5c8ec562" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SumOfArrayAverages.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ParseFloat.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +71,8 @@
       <workItem from="1612194373770" duration="89000" />
       <workItem from="1612378222016" duration="799000" />
       <workItem from="1612379104166" duration="831000" />
-      <workItem from="1612437648301" duration="305000" />
+      <workItem from="1612437648301" duration="471000" />
+      <workItem from="1612555617705" duration="305000" />
     </task>
     <task id="LOCAL-00001" summary="First commit of katas">
       <created>1612378605836</created>
@@ -94,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612379713505</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Sum of Array Averages">
+      <created>1612438094202</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1612438094202</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +124,7 @@
     <MESSAGE value="First commit of katas" />
     <MESSAGE value="First" />
     <MESSAGE value="Grasshopper" />
-    <option name="LAST_COMMIT_MESSAGE" value="Grasshopper" />
+    <MESSAGE value="Sum of Array Averages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sum of Array Averages" />
   </component>
 </project>
