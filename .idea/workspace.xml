@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1528e426-5b17-4777-a9f1-dd4d5c8ec562" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ParseFloat.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountTheDigit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HolidayVSeaSickSnorkelling.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MovesInSquaredStrings(I).php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +74,14 @@
       <workItem from="1612378222016" duration="799000" />
       <workItem from="1612379104166" duration="831000" />
       <workItem from="1612437648301" duration="471000" />
-      <workItem from="1612555617705" duration="305000" />
+      <workItem from="1612555617705" duration="451000" />
+      <workItem from="1612556429863" duration="23000" />
+      <workItem from="1612600524579" duration="3537000" />
+      <workItem from="1612725669580" duration="1607000" />
+      <workItem from="1612765173820" duration="12000" />
+      <workItem from="1612802016949" duration="1139000" />
+      <workItem from="1612848789037" duration="10000" />
+      <workItem from="1612899277331" duration="898000" />
     </task>
     <task id="LOCAL-00001" summary="First commit of katas">
       <created>1612378605836</created>
@@ -102,7 +111,21 @@
       <option name="project" value="LOCAL" />
       <updated>1612438094202</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ParseFloat added">
+      <created>1612556058542</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1612556058542</updated>
+    </task>
+    <task id="LOCAL-00006" summary="TargetDate and CorrectTheTimeString">
+      <created>1612727272684</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1612727272684</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +148,8 @@
     <MESSAGE value="First" />
     <MESSAGE value="Grasshopper" />
     <MESSAGE value="Sum of Array Averages" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sum of Array Averages" />
+    <MESSAGE value="ParseFloat added" />
+    <MESSAGE value="TargetDate and CorrectTheTimeString" />
+    <option name="LAST_COMMIT_MESSAGE" value="TargetDate and CorrectTheTimeString" />
   </component>
 </project>
