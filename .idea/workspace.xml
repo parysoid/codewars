@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1528e426-5b17-4777-a9f1-dd4d5c8ec562" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LostNumberInNumberSequence.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TidyNumber.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BalancedNumber.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mumbling - zase text.php" beforeDir="false" afterPath="$PROJECT_DIR$/Mumbling.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +28,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary" value="PHPUnit" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kalendar" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -83,7 +83,8 @@
       <workItem from="1612899277331" duration="1048000" />
       <workItem from="1612939691374" duration="20000" />
       <workItem from="1612990743622" duration="437000" />
-      <workItem from="1613063400608" duration="331000" />
+      <workItem from="1613063400608" duration="950000" />
+      <workItem from="1613150888421" duration="977000" />
     </task>
     <task id="LOCAL-00001" summary="First commit of katas">
       <created>1612378605836</created>
@@ -134,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612900320254</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Tidy Number and Lost Number added">
+      <created>1613064344410</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1613064344410</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,6 +168,7 @@
     <MESSAGE value="ParseFloat added" />
     <MESSAGE value="TargetDate and CorrectTheTimeString" />
     <MESSAGE value="Tuesday fun" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tuesday fun" />
+    <MESSAGE value="Tidy Number and Lost Number added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tidy Number and Lost Number added" />
   </component>
 </project>
