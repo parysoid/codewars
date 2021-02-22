@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1528e426-5b17-4777-a9f1-dd4d5c8ec562" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CountByX.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FilterOutTheGeese.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Function3.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RowWeights.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimpleCalculator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaximumProduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReduceButGrow.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +28,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary" value="PHPUnit" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kalendar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -90,7 +87,12 @@
       <workItem from="1613150888421" duration="1243000" />
       <workItem from="1613253318000" duration="456000" />
       <workItem from="1613326042673" duration="865000" />
-      <workItem from="1613419433670" duration="862000" />
+      <workItem from="1613419433670" duration="970000" />
+      <workItem from="1613481480428" duration="109000" />
+      <workItem from="1613496687160" duration="665000" />
+      <workItem from="1613632353200" duration="1472000" />
+      <workItem from="1613983496808" duration="32000" />
+      <workItem from="1614008906307" duration="1892000" />
     </task>
     <task id="LOCAL-00001" summary="First commit of katas">
       <created>1612378605836</created>
@@ -155,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613152122258</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Monday fun">
+      <created>1613420398498</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1613420398498</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,6 +192,7 @@
     <MESSAGE value="Tuesday fun" />
     <MESSAGE value="Tidy Number and Lost Number added" />
     <MESSAGE value="BalancedNumber" />
-    <option name="LAST_COMMIT_MESSAGE" value="BalancedNumber" />
+    <MESSAGE value="Monday fun" />
+    <option name="LAST_COMMIT_MESSAGE" value="Monday fun" />
   </component>
 </project>
